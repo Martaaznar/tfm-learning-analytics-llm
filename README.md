@@ -27,8 +27,6 @@ tfm-learning-analytics-llm/
 * `notebooks/`: final analysis notebook in `.ipynb` and `.html` format.
 * `outputs/figures/`: figures generated during the analysis.
 * `outputs/tables/`: result tables used to support the thesis results.
-* `outputs/llm_features/`: intermediate LLM-derived feature outputs.
-* `outputs/models/`: saved modelling outputs, if applicable.
 * `data/`: data access note. The original dataset is not redistributed in this repository.
 
 ## Data availability
