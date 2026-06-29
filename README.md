@@ -15,8 +15,6 @@ tfm-learning-analytics-llm/
 │   └── Student_Learning_Trajectories_LA_LLM_FINAL.html
 ├── outputs/
 │   ├── figures/
-│   ├── llm_features/
-│   ├── models/
 │   └── tables/
 ├── data/
 │   └── README.md
