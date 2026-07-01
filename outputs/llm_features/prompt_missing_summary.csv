@@ -1,0 +1,10 @@
+feature,prompt_0_minimal,prompt_1_structured,prompt_2_rubric
+algorithmic_efficiency,0.0,0.0,0.0
+code_completeness,0.0,0.0,0.0
+code_readability,0.0,0.0,0.0
+control_flow_quality,0.0,0.0,0.0
+decomposition_quality,0.0,0.0,0.0
+error_proneness,0.0,0.0,0.0
+llm_confidence,0.0,0.0,0.0
+overall_code_quality,0.0,0.0,0.0
+variable_naming_quality,0.0,0.0,0.0

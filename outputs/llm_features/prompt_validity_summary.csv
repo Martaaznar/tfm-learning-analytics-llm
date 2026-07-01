@@ -1,0 +1,4 @@
+prompt_name,n_outputs,valid_json_rate
+prompt_0_minimal,2530,100.0
+prompt_1_structured,2530,100.0
+prompt_2_rubric,2530,100.0
