@@ -2,26 +2,11 @@
 
 The original data files used in this thesis are not redistributed in this repository.
 
-The analysis is based on the **CSEDM Data Challenge 2021** dataset. The dataset was accessed from the official challenge website:
+The analysis is based on the CSEDM Data Challenge 2021 dataset. The dataset was accessed from the official challenge website and should be cited as:
 
-https://sites.google.com/ncsu.edu/csedm-dc-2021/home
+CSEDM Data Challenge. (2021). *CSEDM Data Challenge 2021*. Available at the time of access: https://sites.google.com/ncsu.edu/csedm-dc-2021/home. Accessed: 2026-02-01.
 
-The dataset should be cited as:
-
-CSEDM Data Challenge. (2021). *CSEDM Data Challenge 2021*. Available at: https://sites.google.com/ncsu.edu/csedm-dc-2021/home
-
-BibTeX reference:
-
-@misc{csedm2021challenge,
-  author = {{CSEDM Data Challenge}},
-  title = {CSEDM Data Challenge 2021},
-  year = {2021},
-  url = {https://sites.google.com/ncsu.edu/csedm-dc-2021/home},
-  urldate = {2026-02-01},
-  note = {Available at the time of access}
-}
-
-To reproduce the analysis, the original dataset files should be placed in this `data/` folder using the same file names and structure expected by the notebook.
+To reproduce the analysis, the original dataset files should be placed in this `data/` folder using the same file names expected by the notebook.
 
 The main files used or documented in the thesis are:
 
@@ -32,6 +17,6 @@ The main files used or documented in the thesis are:
 - `late.csv`
 - `DatasetMetadata.csv`
 
-The notebook assumes this folder structure unless paths are adapted manually.
+The notebook expects these files to be located inside the `data/` folder with the file names listed above. If the files are stored in a different location, the paths in the notebook should be updated accordingly.
 
-This repository focuses on documenting the analytical workflow, selected outputs and reproducibility materials. The original dataset files are not included in order to respect the conditions of use and avoid redistributing educational data.
+This repository focuses on documenting the analytical workflow, selected outputs and reproducibility materials. The original dataset files are not included in order to avoid redistributing educational data.
