@@ -1,9 +1,0 @@
-dataset,same_students_as_baseline,n_students,missing_students_vs_baseline,extra_students_vs_baseline
-traditional_LA_only,True,506,0,0
-traditional_LA_plus_structural,True,506,0,0
-traditional_LA_plus_prompt_0_minimal,True,506,0,0
-traditional_LA_plus_prompt_1_structured,True,506,0,0
-traditional_LA_plus_prompt_2_rubric,True,506,0,0
-traditional_LA_structural_plus_prompt_0_minimal,True,506,0,0
-traditional_LA_structural_plus_prompt_1_structured,True,506,0,0
-traditional_LA_structural_plus_prompt_2_rubric,True,506,0,0
