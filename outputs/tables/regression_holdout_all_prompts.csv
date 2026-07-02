@@ -1,0 +1,13 @@
+dataset,model,n_features,test_r2,test_mae,test_rmse,feature_block,prompt_name
+traditional_LA_only,Ridge,48,0.0175681525677166,12.602272668011532,20.811647697856394,Traditional LA only,no_prompt
+traditional_LA_plus_structural,Random Forest,156,0.42039727181276865,11.329958169934635,15.985287800274458,Traditional LA + Structural,no_prompt
+traditional_LA_plus_prompt_0_minimal,Gradient Boosting,102,0.3628979132757528,11.695954727066756,16.759450032946337,Traditional LA + LLM,prompt_0_minimal
+traditional_LA_plus_prompt_1_structured,Random Forest,102,0.42241282737375563,11.3961248366013,15.95746935379474,Traditional LA + LLM,prompt_1_structured
+traditional_LA_plus_prompt_2_rubric,Random Forest,102,0.42505148479414745,11.411041176470585,15.920977464060147,Traditional LA + LLM,prompt_2_rubric
+traditional_LA_structural_plus_prompt_0_minimal,Random Forest,210,0.41471708999924717,11.206360784313723,16.063425771991714,Traditional LA + Structural + LLM,prompt_0_minimal
+traditional_LA_structural_plus_prompt_1_structured,Random Forest,210,0.41328903558555796,11.3928431372549,16.08301071972823,Traditional LA + Structural + LLM,prompt_1_structured
+traditional_LA_structural_plus_prompt_2_rubric,Random Forest,210,0.41501002796075437,11.38940653594771,16.059405343527278,Traditional LA + Structural + LLM,prompt_2_rubric
+structural_only,Random Forest,108,0.39936389975340003,11.624660784313722,16.272750466815694,Structural only,no_prompt
+llm_only_prompt_0_minimal,Random Forest,54,0.041078593313334855,14.586379084967325,20.561119450386737,LLM only,prompt_0_minimal
+llm_only_prompt_1_structured,Random Forest,54,0.07246730231025789,14.414230065359476,20.221802453610657,LLM only,prompt_1_structured
+llm_only_prompt_2_rubric,SVR,54,0.07253058711067462,15.034632381189395,20.221112583288534,LLM only,prompt_2_rubric

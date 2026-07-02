@@ -1,0 +1,211 @@
+feature,importance,feature_block,feature_subblock
+code_has_loop_mean,0.03213999408396214,Structural code,Structural code
+code_n_assignments_mean,0.031797798341272644,Structural code,Structural code
+code_n_loops_mean,0.028804786969252538,Structural code,Structural code
+correct_rate_change_late_early,0.0279069481818383,Traditional LA,Temporal phase
+code_n_semicolons_mean,0.024325558235905625,Structural code,Structural code
+n_compile_success_total,0.023175601404299796,Traditional LA,Compilation behaviour
+compile_error_rate,0.022251904187624544,Traditional LA,Compilation behaviour
+phase_correct_rate_late,0.020459991176227925,Traditional LA,Temporal phase
+compile_success_rate,0.020173661551758624,Traditional LA,Compilation behaviour
+code_n_for_mean,0.01701770584577146,Structural code,Structural code
+code_chars_mean,0.01470189613510154,Structural code,Structural code
+n_first_attempt_correct,0.01427555149838327,Traditional LA,Problem performance
+code_n_return_mean,0.013738395304940615,Structural code,Structural code
+score_change_late_early,0.013567914491295557,Traditional LA,Temporal phase
+std_score_attempt,0.013405464401795526,Traditional LA,Activity and attempts
+code_n_boolean_ops_mean,0.012947431205873099,Structural code,Structural code
+first_attempt_correct_rate,0.011382237493253494,Traditional LA,Problem performance
+mean_first_score_problem,0.01114459108650097,Traditional LA,Problem performance
+code_n_semicolons_max,0.01080348020671815,Structural code,Structural code
+code_brace_balance_mean,0.009783706946830591,Structural code,Structural code
+code_chars_max,0.009513318159473707,Structural code,Structural code
+code_avg_line_length_mean,0.009414353799460729,Structural code,Structural code
+code_n_else_mean,0.00937861429576083,Structural code,Structural code
+mean_score_improvement_problem,0.009202242835691014,Traditional LA,Problem performance
+correct_attempt_rate,0.009076293900028119,Traditional LA,Activity and attempts
+code_n_for_std,0.008952478615764956,Structural code,Structural code
+code_chars_std,0.008686239150055699,Structural code,Structural code
+code_n_semicolons_std,0.008381222215210687,Structural code,Structural code
+code_has_loop_std,0.00834870610611485,Structural code,Structural code
+code_brace_balance_std,0.008300993701631024,Structural code,Structural code
+phase_mean_score_late,0.00823701120508,Traditional LA,Temporal phase
+code_non_empty_lines_std,0.008111278511695276,Structural code,Structural code
+code_n_while_mean,0.008066054593413906,Structural code,Structural code
+code_n_loops_std,0.007981609584524737,Structural code,Structural code
+mean_gap_hours,0.0078244562889361,Traditional LA,Regularity and inactivity
+phase_correct_rate_early,0.007700329714081317,Traditional LA,Temporal phase
+mean_attempts_per_problem,0.007693034444251572,Traditional LA,Activity and attempts
+code_n_else_std,0.007647178385998147,Structural code,Structural code
+code_n_while_std,0.007641727426382586,Structural code,Structural code
+code_n_assignments_std,0.007572580941578506,Structural code,Structural code
+attempts_per_active_day,0.007554118686210515,Traditional LA,Activity and attempts
+phase_mean_score_early,0.007513923989941252,Traditional LA,Temporal phase
+code_n_assignments_max,0.007512491308789327,Structural code,Structural code
+code_lines_mean,0.007484356468133894,Structural code,Structural code
+last_attempt_day_from_start,0.007178571265128078,Traditional LA,Activity and attempts
+code_avg_line_length_change_last_first,0.007151952151416405,Structural code,Structural code
+code_has_conditional_mean,0.007094696371558792,Structural code,Structural code
+n_compile_events_total,0.0070552146706026235,Traditional LA,Compilation behaviour
+llm_variable_naming_quality_std,0.006881329119971356,LLM semantic,LLM semantic scores
+code_avg_line_length_first,0.006745273231670597,Structural code,Structural code
+code_n_if_mean,0.006707355358225995,Structural code,Structural code
+code_has_conditional_std,0.0066689883311657466,Structural code,Structural code
+phase_n_attempts_middle,0.006620355003547326,Traditional LA,Activity and attempts
+n_code_states_attempts,0.0065526211859068045,Traditional LA,Activity and attempts
+phase_n_attempts_early,0.006405386691896114,Traditional LA,Activity and attempts
+code_non_empty_lines_mean,0.006392726559306767,Structural code,Structural code
+phase_correct_rate_middle,0.0063209685090241715,Traditional LA,Temporal phase
+code_non_empty_lines_max,0.006292308208769022,Structural code,Structural code
+median_score_attempt,0.006271489479063991,Traditional LA,Activity and attempts
+max_gap_hours,0.006184837665307784,Traditional LA,Regularity and inactivity
+code_n_comparison_ops_mean,0.005981531742764782,Structural code,Structural code
+code_n_boolean_ops_std,0.005933559438863235,Structural code,Structural code
+code_chars_change_last_first,0.005783236333906312,Structural code,Structural code
+n_correct_attempts,0.00576890841758669,Traditional LA,Activity and attempts
+code_avg_line_length_max,0.005570500792193846,Structural code,Structural code
+code_has_comment_std,0.005521491722724624,Structural code,Structural code
+code_n_comparison_ops_max,0.00548301984931724,Structural code,Structural code
+phase_n_attempts_late,0.005459920666260102,Traditional LA,Activity and attempts
+phase_mean_score_middle,0.005425198384853921,Traditional LA,Temporal phase
+code_n_return_std,0.005289918556388953,Structural code,Structural code
+first_attempt_day_from_start,0.0052243974300440746,Traditional LA,Activity and attempts
+median_gap_hours,0.005216113458106833,Traditional LA,Regularity and inactivity
+code_avg_line_length_std,0.005203414350994457,Structural code,Structural code
+median_attempts_per_problem,0.0051927301078013004,Traditional LA,Activity and attempts
+n_compile_errors_total,0.005190982667768099,Traditional LA,Compilation behaviour
+code_n_if_std,0.0051206854699807685,Structural code,Structural code
+code_has_comment_mean,0.005105391557497057,Structural code,Structural code
+max_attempts_single_problem,0.0050962822059048,Traditional LA,Traditional LA other
+n_attempts,0.005036136436873899,Traditional LA,Activity and attempts
+mean_score_attempt,0.004869647551909358,Traditional LA,Activity and attempts
+code_avg_line_length_last,0.004721021034595337,Structural code,Structural code
+mean_last_score_problem,0.004511557063537267,Traditional LA,Problem performance
+code_lines_max,0.004432160458456384,Structural code,Structural code
+code_lines_change_last_first,0.004375205778335818,Structural code,Structural code
+llm_decomposition_quality_std,0.0042370662309868055,LLM semantic,LLM semantic scores
+llm_error_proneness_std,0.0042288810939317785,LLM semantic,LLM semantic scores
+code_lines_std,0.004183767842162901,Structural code,Structural code
+code_chars_last,0.004167425189108401,Structural code,Structural code
+code_chars_first,0.004098730680358929,Structural code,Structural code
+code_n_comparison_ops_std,0.00409274554934702,Structural code,Structural code
+code_lines_first,0.004073325462087456,Structural code,Structural code
+code_non_empty_lines_change_last_first,0.003889168028166139,Structural code,Structural code
+llm_control_flow_quality_mean,0.0037978003201670912,LLM semantic,LLM semantic scores
+llm_algorithmic_efficiency_std,0.0037907227319723723,LLM semantic,LLM semantic scores
+llm_variable_naming_quality_mean,0.0035874051174966445,LLM semantic,LLM semantic scores
+llm_overall_code_quality_mean,0.003587153791819495,LLM semantic,LLM semantic scores
+llm_overall_code_quality_std,0.003549912145826684,LLM semantic,LLM semantic scores
+n_solved_problems,0.0035167662189441507,Traditional LA,Problem performance
+llm_algorithmic_efficiency_mean,0.0035071086323870612,LLM semantic,LLM semantic scores
+code_n_boolean_ops_max,0.00349963191152448,Structural code,Structural code
+code_n_else_max,0.003393377833121545,Structural code,Structural code
+llm_control_flow_quality_std,0.0033858751285776073,LLM semantic,LLM semantic scores
+llm_code_readability_std,0.003335498871962788,LLM semantic,LLM semantic scores
+code_n_if_max,0.0031604798630170796,Structural code,Structural code
+active_days_attempts,0.0030841244913281753,Traditional LA,Activity and attempts
+llm_error_proneness_mean,0.0030733156774712255,LLM semantic,LLM semantic scores
+llm_code_completeness_mean,0.0029958743687852982,LLM semantic,LLM semantic scores
+llm_code_completeness_std,0.0029327170073478303,LLM semantic,LLM semantic scores
+solve_rate,0.002926747792527737,Traditional LA,Problem performance
+code_non_empty_lines_first,0.002898300893433665,Structural code,Structural code
+code_lines_last,0.0028342493115861736,Structural code,Structural code
+n_problems_attempted,0.002820795909817917,Traditional LA,Problem performance
+n_large_gaps_72h,0.0026081475811130382,Traditional LA,Regularity and inactivity
+mean_best_score_problem,0.0025857864180898636,Traditional LA,Problem performance
+n_large_gaps_24h,0.0025408670453842233,Traditional LA,Regularity and inactivity
+llm_code_readability_mean,0.002414716820482792,LLM semantic,LLM semantic scores
+code_non_empty_lines_last,0.002357034295514217,Structural code,Structural code
+llm_decomposition_quality_mean,0.0023494933175855167,LLM semantic,LLM semantic scores
+llm_decomposition_quality_change_last_first,0.0023458540309282063,LLM semantic,LLM semantic scores
+llm_overall_code_quality_first,0.0023091293526924573,LLM semantic,LLM semantic scores
+llm_llm_confidence_std,0.002250077618566849,LLM semantic,LLM semantic scores
+llm_strategy_prop_direct_conditionals,0.002240629455418456,LLM semantic,LLM strategy proportions
+code_n_return_change_last_first,0.0022361740216957898,Structural code,Structural code
+code_n_comparison_ops_change_last_first,0.002210782229230512,Structural code,Structural code
+llm_code_readability_last,0.002149295495374798,LLM semantic,LLM semantic scores
+code_n_return_max,0.0021087318476130366,Structural code,Structural code
+llm_overall_code_quality_change_last_first,0.0020967333600907475,LLM semantic,LLM semantic scores
+code_n_semicolons_first,0.002039906937002935,Structural code,Structural code
+code_n_while_max,0.0019923883114042395,Structural code,Structural code
+llm_code_readability_change_last_first,0.0019849952530306713,LLM semantic,LLM semantic scores
+llm_control_flow_quality_change_last_first,0.0019631785886024943,LLM semantic,LLM semantic scores
+llm_variable_naming_quality_change_last_first,0.001958714336165387,LLM semantic,LLM semantic scores
+code_n_loops_max,0.001901483350788956,Structural code,Structural code
+code_n_assignments_change_last_first,0.0018359405653836265,Structural code,Structural code
+llm_decomposition_quality_first,0.0018332564404439035,LLM semantic,LLM semantic scores
+llm_variable_naming_quality_first,0.0018053518368046234,LLM semantic,LLM semantic scores
+llm_llm_confidence_mean,0.001654626260940849,LLM semantic,LLM semantic scores
+llm_variable_naming_quality_last,0.0016526821666943705,LLM semantic,LLM semantic scores
+code_n_semicolons_last,0.0015565992515090134,Structural code,Structural code
+code_n_for_max,0.0015513636859712044,Structural code,Structural code
+code_n_return_last,0.0015419204442902272,Structural code,Structural code
+code_n_semicolons_change_last_first,0.001505231487201499,Structural code,Structural code
+llm_control_flow_quality_first,0.0014462069127322682,LLM semantic,LLM semantic scores
+llm_code_completeness_change_last_first,0.0013896024677801941,LLM semantic,LLM semantic scores
+code_n_else_change_last_first,0.0013836625356860488,Structural code,Structural code
+code_n_return_first,0.0013827614445180458,Structural code,Structural code
+llm_strategy_prop_loops_or_iteration,0.0013352726201086031,LLM semantic,LLM strategy proportions
+code_n_if_change_last_first,0.00129327047999491,Structural code,Structural code
+code_n_comparison_ops_first,0.0012626447042787872,Structural code,Structural code
+code_brace_balance_max,0.0012469072520563248,Structural code,Structural code
+llm_code_completeness_first,0.0012036201939131994,LLM semantic,LLM semantic scores
+llm_error_proneness_change_last_first,0.0011953533890190758,LLM semantic,LLM semantic scores
+code_n_if_last,0.0011732197660157093,Structural code,Structural code
+code_n_comparison_ops_last,0.0011618262861069716,Structural code,Structural code
+llm_error_proneness_first,0.001158419766375165,LLM semantic,LLM semantic scores
+code_n_boolean_ops_change_last_first,0.0009704215818628462,Structural code,Structural code
+code_n_else_first,0.0009071325707695124,Structural code,Structural code
+llm_algorithmic_efficiency_change_last_first,0.0008815773993305873,LLM semantic,LLM semantic scores
+llm_code_completeness_last,0.0008630093471970014,LLM semantic,LLM semantic scores
+llm_decomposition_quality_last,0.000859109683811232,LLM semantic,LLM semantic scores
+code_n_if_first,0.0008297193899070603,Structural code,Structural code
+code_n_boolean_ops_first,0.0008100154905007218,Structural code,Structural code
+llm_algorithmic_efficiency_last,0.0007204375475220709,LLM semantic,LLM semantic scores
+llm_code_readability_first,0.0006759551898886096,LLM semantic,LLM semantic scores
+code_has_comment_max,0.0006496282220907839,Structural code,Structural code
+llm_llm_confidence_change_last_first,0.0006198072196303724,LLM semantic,LLM semantic scores
+code_has_comment_change_last_first,0.0006140779281781905,Structural code,Structural code
+code_n_assignments_last,0.0006083107746631839,Structural code,Structural code
+code_n_for_change_last_first,0.0006019339835218621,Structural code,Structural code
+llm_error_proneness_last,0.0005967852713706837,LLM semantic,LLM semantic scores
+code_n_assignments_first,0.0005889800431226369,Structural code,Structural code
+code_n_for_last,0.0005573500971587791,Structural code,Structural code
+n_assignments_attempted,0.0005541791249042052,Traditional LA,Activity and attempts
+llm_strategy_prop_incomplete_or_empty,0.0005251192723465555,LLM semantic,LLM strategy proportions
+attempts_change_late_early,0.0004923884938224006,Traditional LA,Temporal phase
+llm_algorithmic_efficiency_first,0.00041140384183989973,LLM semantic,LLM semantic scores
+llm_overall_code_quality_last,0.00041139277618841043,LLM semantic,LLM semantic scores
+code_n_loops_change_last_first,0.00040961821197082115,Structural code,Structural code
+llm_control_flow_quality_last,0.00039436342464192563,LLM semantic,LLM semantic scores
+code_brace_balance_first,0.00039363877405130317,Structural code,Structural code
+code_n_else_last,0.0003729935807717907,Structural code,Structural code
+llm_strategy_prop_unclear_or_other,0.0003580319241477407,LLM semantic,LLM strategy proportions
+code_n_loops_last,0.00034308735008307934,Structural code,Structural code
+llm_llm_confidence_last,0.0003390424214302485,LLM semantic,LLM semantic scores
+code_has_comment_first,0.00031211160925431687,Structural code,Structural code
+code_has_conditional_change_last_first,0.0003064623894421192,Structural code,Structural code
+code_has_conditional_first,0.00024001840569183155,Structural code,Structural code
+llm_strategy_prop_helper_methods,0.0002267259160965995,LLM semantic,LLM strategy proportions
+code_n_boolean_ops_last,0.000224054110851252,Structural code,Structural code
+code_brace_balance_change_last_first,0.00022089660226730647,Structural code,Structural code
+llm_strategy_prop_hardcoded_solution,0.00014340040747965046,LLM semantic,LLM strategy proportions
+code_has_conditional_last,0.0001191730621208301,Structural code,Structural code
+code_has_loop_last,0.00011379151124340268,Structural code,Structural code
+code_has_loop_change_last_first,0.00010519512605837344,Structural code,Structural code
+llm_llm_confidence_first,0.00010336032439215294,LLM semantic,LLM semantic scores
+code_n_while_change_last_first,2.615352247163738e-05,Structural code,Structural code
+min_score_attempt,0.0,Traditional LA,Activity and attempts
+code_n_for_first,0.0,Structural code,Structural code
+llm_strategy_prop_object_oriented,0.0,LLM semantic,LLM strategy proportions
+code_n_while_first,0.0,Structural code,Structural code
+code_n_while_last,0.0,Structural code,Structural code
+code_has_loop_first,0.0,Structural code,Structural code
+code_has_comment_last,0.0,Structural code,Structural code
+code_has_loop_max,0.0,Structural code,Structural code
+max_score_attempt,0.0,Traditional LA,Activity and attempts
+code_has_conditional_max,0.0,Structural code,Structural code
+llm_n_submissions,0.0,LLM semantic,LLM coverage
+code_brace_balance_last,0.0,Structural code,Structural code
+code_n_loops_first,0.0,Structural code,Structural code
+llm_valid_json_rate,0.0,LLM semantic,LLM coverage
