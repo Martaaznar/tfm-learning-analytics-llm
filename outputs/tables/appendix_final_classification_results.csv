@@ -1,0 +1,13 @@
+Feature block,Prompt,Best model,N features,CV AUC,Hold-out AUC,CV Accuracy,Hold-out Accuracy,CV F1,Hold-out F1
+Traditional LA only,-,SVC,48,0.814 ± 0.049,0.879,0.745 ± 0.047,0.814,0.757 ± 0.044,0.819
+Traditional LA + Structural,-,Random Forest,156,0.813 ± 0.053,0.89,0.762 ± 0.054,0.804,0.765 ± 0.060,0.815
+Traditional LA + LLM,prompt_0_minimal,SVC,102,0.805 ± 0.050,0.861,0.746 ± 0.052,0.833,0.757 ± 0.057,0.844
+Traditional LA + LLM,prompt_1_structured,Random Forest,102,0.799 ± 0.046,0.866,0.746 ± 0.048,0.794,0.757 ± 0.052,0.796
+Traditional LA + LLM,prompt_2_rubric,SVC,102,0.800 ± 0.051,0.866,0.719 ± 0.053,0.765,0.726 ± 0.057,0.769
+Traditional LA + Structural + LLM,prompt_0_minimal,Random Forest,210,0.809 ± 0.051,0.876,0.752 ± 0.050,0.794,0.753 ± 0.060,0.804
+Traditional LA + Structural + LLM,prompt_1_structured,Random Forest,210,0.815 ± 0.050,0.882,0.752 ± 0.041,0.784,0.754 ± 0.047,0.788
+Traditional LA + Structural + LLM,prompt_2_rubric,Random Forest,210,0.809 ± 0.053,0.877,0.757 ± 0.049,0.804,0.760 ± 0.057,0.811
+Structural only,-,SVC,108,0.785 ± 0.051,0.826,0.715 ± 0.056,0.755,0.722 ± 0.061,0.775
+LLM only,prompt_0_minimal,SVC,54,0.692 ± 0.047,0.713,0.639 ± 0.056,0.676,0.656 ± 0.073,0.703
+LLM only,prompt_1_structured,Logistic Regression,54,0.686 ± 0.051,0.691,0.620 ± 0.050,0.696,0.640 ± 0.048,0.716
+LLM only,prompt_2_rubric,SVC,54,0.653 ± 0.034,0.683,0.614 ± 0.036,0.618,0.640 ± 0.051,0.614
